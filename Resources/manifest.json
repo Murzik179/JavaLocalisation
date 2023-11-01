@@ -4,14 +4,14 @@
     "name": "Java Localization",
     "description": "pack.description",
     "uuid": "3520e89c-4fee-4592-b5bb-6463bc020ec0",
-    "version": [0, 2, 1],
+    "version": [0, 2, 2],
     "min_engine_version": [1, 18, 0]
   },
   "modules": [
     {
       "type": "resources",
       "uuid": "0fabf988-43cc-49e9-a6a4-7bc02fc90d20",
-      "version": [0, 2, 1]
+      "version": [0, 2, 2]
     }
   ],
   "metadata": {
